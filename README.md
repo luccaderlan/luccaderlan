@@ -76,18 +76,6 @@ I work with backend development, relational databases, API design, testing and s
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=luccaderlan&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccaderlan&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
