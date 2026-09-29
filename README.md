@@ -8,8 +8,12 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/luccaderlan)
+<a href="https://www.linkedin.com/in/lucca-derlan-3474a92b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/luccaderlan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -19,24 +23,42 @@
 
 Backend developer focused on building applications and REST APIs with **Java and Spring Boot**.
 
-My work involves backend development, relational databases, API design, testing and software development tools, with an emphasis on structured and maintainable solutions.
+I work with backend development, relational databases, API design, testing and software development tools, with a focus on structured and maintainable solutions.
 
-### Core Technologies
+---
+
+## Tech Stack
+
+### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-**Backend**
 `Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `REST APIs`
 
-**Databases**
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
 `PostgreSQL` · `MySQL` · `H2`
 
-**Testing & API**
+### Testing & API
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
 `JUnit 5` · `Mockito` · `Swagger / OpenAPI` · `Postman`
 
-**Tools**
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,maven,docker" />
+</p>
+
 `Git` · `GitHub` · `Maven` · `Docker` · `DBeaver`
 
 ---
@@ -49,11 +71,12 @@ My work involves backend development, relational databases, API design, testing 
 * JPA / Hibernate
 * Automated testing
 * API documentation
-* Software architecture and clean code
+* Software architecture
+* Clean and maintainable code
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
@@ -67,10 +90,14 @@ My work involves backend development, relational databases, API design, testing 
 
 ## Contact
 
-<div align="left">
+<div align="center">
 
-**LinkedIn:** [Lucca Derlan](SEU_LINKEDIN)
+<a href="https://www.linkedin.com/in/lucca-derlan-3474a92b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-Lucca%20Derlan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-**GitHub:** [@luccaderlan](https://github.com/luccaderlan)
+<a href="https://github.com/luccaderlan">
+  <img src="https://img.shields.io/badge/GitHub-@luccaderlan-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
